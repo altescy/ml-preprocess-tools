@@ -6,7 +6,7 @@ setup(
     version="0.1.0",
     author="altescy",
     author_email="altescy@fastmail.com",
-    description="Experiment manager for machilen learning.",
+    description="preprocess tools for machine learning based on scikit-learn API",
     url="https://github.com/altescy/ml-preprocess-tools",
     license='MIT License',
     install_requires=[
